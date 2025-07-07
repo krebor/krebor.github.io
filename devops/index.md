@@ -1,1 +1,1 @@
-# [CI/CD Pipeline with TeamCity, Ansible & AWX](/devops/teamcity-ansible-awx/index.md)
+# [CI/CD Pipeline with TeamCity, Ansible & AWX](/devops/teamcity-ansible-awx/)
