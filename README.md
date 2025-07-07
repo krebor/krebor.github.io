@@ -1,1 +1,2 @@
-# [Azure Labs](azure/)
+# [Azure](azure/index.md)
+# [DevOps](devops/index.md)
