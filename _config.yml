@@ -1,3 +1,8 @@
+# Site settings
+title: Cloud & IT Operations Portfolio
+description: A showcase of various IT labs, including Azure, Linux, AWS, and DevOps.
+
+# Theme settings
 remote_theme: pages-themes/hacker@v0.2.0
 plugins:
   - jekyll-remote-theme
